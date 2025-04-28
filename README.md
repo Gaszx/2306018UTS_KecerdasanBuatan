@@ -1,7 +1,7 @@
 # UTS Kecerdasan Buatan 2025
 
-**Nama**: Andrean Kosasih  
-**NIM**: 2306028  
+**Nama**: Bagas Sujiwo 
+**NIM**: 2306018  
 **Dosen Pengampu**: Leni Fitriani, S.T., M.Kom
 
 ## Deskripsi Proyek
